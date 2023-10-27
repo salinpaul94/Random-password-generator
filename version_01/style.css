@@ -38,3 +38,8 @@ body{
   width: 30px;
   cursor: pointer;
 }
+.display input{
+  border: none;
+  outline: none;
+  font-size: 24px;
+}
